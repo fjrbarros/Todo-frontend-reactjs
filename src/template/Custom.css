@@ -12,5 +12,7 @@
 }
 
 .todoForm {
-    padding-bottom: 60px;
+    padding-bottom: 30px;
+    display: flex;
+    align-items: center;
 }
